@@ -1,2 +1,2 @@
 # Thepython-web
-Use branches an pull requests!!!
+Use branches and pull requests!!!
